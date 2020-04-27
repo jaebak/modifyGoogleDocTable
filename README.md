@@ -15,4 +15,4 @@ pip3.6 install --upgrade google-api-python-client google-auth-httplib2 google-au
 
 Edit `DOCUMENT_ID`, `TARGETCELLTEXT`, and `TEXTTOINSERT` in `modifyGoogleDocTable.py`
 
-./modifyGoogleDocTable.py
+`./modifyGoogleDocTable.py`
